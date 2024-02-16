@@ -1,2 +1,2 @@
 # heaven-and-ale
-Heaven and Ale board game algorithms
+Heaven and Ale board game algorithms.
